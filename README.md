@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **tsiiiarmy@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-website-alpha-virid.vercel.app/](https://my-portfolio-website-alpha-virid.vercel.app/)
 
 - ⚡ Fun fact **army is my campus nickname😁. and i think I’m fun to be around.**
 
