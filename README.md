@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Tsion Getachew</h1>
-<h3 align="center">A passionate Frontend developer and UI/UX Designer from Ethiopia</h3>
+<h2 align="center">A passionate Frontend developer, UI/UX Designer and a 4rth year Software Engineering student at Addis Ababa Science and Technology University </h2>
 
 - 🔭 I’m currently **Front-end Intern | mastering React + Tailwind at Kuraz technologies. Recreating modern UIs to sharpen my design + code skills**
 
