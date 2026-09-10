@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tsion Getachew</h1>
 <h2 align="center">Software Engineering Graduate | Frontend Developer | UI/UX Designer </h2>
 
-🌱 I’m currently learning Spring Boot, PostgreSQL, Docker and more about full-stack development
-👯 I’m looking to collaborate on UI/UX designs and Frontend development
-🤝 I’m looking to improve my Backend development skills
-💬 Ask me about React, Figma and UI/UX
-📫 How to reach me: tsiiiarmy@gmail.com
-⚡ Fun fact: Army is my campus nickname 😁
+- 🌱 I’m currently learning Spring Boot, PostgreSQL, Docker and full-stack development
+- 👯 I’m looking to collaborate on UI/UX designs and Frontend development
+- 🤝 I’m looking to improve my Backend development skills
+- 📫 How to reach me tsiiiarmy@gmail.com
+- ⚡ Fun fact Army is my campus nickname 😁
 
 
 <h3 align="left">Languages and Tools:</h3>
