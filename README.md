@@ -1,23 +1,12 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tsion Getachew</h1>
-<h2 align="center">A passionate Frontend developer, UI/UX Designer and a 4rth year Software Engineering student at Addis Ababa Science and Technology University </h2>
+<h2 align="center">Software Engineering Graduate | Frontend Developer | UI/UX Designer </h2>
 
-- 🔭 I’m currently **Front-end Intern | mastering React + Tailwind at Kuraz technologies. Recreating modern UIs to sharpen my design + code skills**
-
-- 🌱 I’m currently learning **tailwind css, Golang...**
-
-- 👯 I’m looking to collaborate on **UI/UX designs, Front end development**
-
-- 🤝 I’m looking for help with **Backend development**
-
-- 💬 Ask me about **react,figma**
-
-- 📫 How to reach me **tsiiiarmy@gmail.com**
-
-
-- ⚡ Fun fact **army is my campus nickname😁. and i think I’m fun to be around.**
-
+🌱 I’m currently learning Spring Boot, PostgreSQL, Docker and more about full-stack development
+👯 I’m looking to collaborate on UI/UX designs and Frontend development
+🤝 I’m looking to improve my Backend development skills
+💬 Ask me about React, Figma and UI/UX
+📫 How to reach me: tsiiiarmy@gmail.com
+⚡ Fun fact: Army is my campus nickname 😁
 
 
 <h3 align="left">Languages and Tools:</h3>
