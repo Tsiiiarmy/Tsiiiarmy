@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on UI/UX designs and Frontend development
 - 🤝 I’m looking to improve my Backend development skills
 - 📫 How to reach me tsiiiarmy@gmail.com
-- ⚡ Fun fact Army is my campus nickname 😁
 
 
 <h3 align="left">Languages and Tools:</h3>
